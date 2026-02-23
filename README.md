@@ -1,2 +1,2 @@
-# Exerc-cios-L-gica-de-Programa-o
+# Exercicios-Logica-de-Prog.
 Exercícios em Portugol para aprender lógica de programação
